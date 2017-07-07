@@ -11,7 +11,7 @@ is loaded if no `jwtoken` can be found or decrypted.
 
 ### Installing
 
-- `pip install git:https://github.com/jonhillmtl/django-jwt-middleware`
+- `pip install git+https://github.com/jonhillmtl/django-jwt-middleware`
 
 Adjust your settings file:
 
