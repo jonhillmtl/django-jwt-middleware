@@ -41,7 +41,7 @@ Best practices on how to share that key betweens services to follow.
 
 `example` contains an example Django project implementing the service.
 
-I userdPostman during development to hit the `test_middleware/` url, with PUT, POST, DELETE, and GET calls. `jwtoken` was, naturally, set. Try it out.
+I used Postman during development to hit the `test_middleware/` url, with PUT, POST, DELETE, and GET calls. `jwtoken` was, naturally, set. Try it out.
 
 ### TODO
 
